@@ -1,0 +1,95 @@
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\taghzia.exe.config
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\taghzia.exe
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\taghzia.pdb
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Buffers.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Memory.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Buffers.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Memory.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.csproj.AssemblyReference.cache
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.Properties.Resources.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.csproj.GenerateResource.cache
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.csproj.CoreCompileInputs.cache
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.csproj.CopyComplete
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.exe
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.pdb
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.Form1.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.splashscreen.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.addnew.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.visita.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.pdb
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.visitaadd.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.editvisita.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.showaal.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.visitafromgad.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.editvisitagad.resources
+C:\Users\AHMED HAMADA\source\repos\taghzia\taghzia\obj\Debug\taghzia.vistaaddgad.resources
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\taghzia.exe.config
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\taghzia.exe
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\taghzia.pdb
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.WinForms.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.Wpf.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\SQLitePCLRaw.core.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Buffers.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Memory.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Numerics.Vectors.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\Tulpep.NotificationWindow.dll
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.pdb
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.xml
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.WinForms.pdb
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.WinForms.xml
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.Wpf.pdb
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\LiveCharts.Wpf.xml
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Buffers.xml
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Memory.xml
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Numerics.Vectors.xml
+F:\gits\Patient tracking system\taghzia\taghzia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.csproj.AssemblyReference.cache
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.csproj.SuggestedBindingRedirects.cache
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.addnew.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.editvisita.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.editvisitagad.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.Form1.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.Properties.Resources.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.showaal.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.splashscreen.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.visita.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.visitaadd.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.visitafromgad.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.vistaaddgad.resources
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.csproj.GenerateResource.cache
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.csproj.CoreCompileInputs.cache
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.csproj.CopyComplete
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.exe
+F:\gits\Patient tracking system\taghzia\taghzia\obj\Debug\taghzia.pdb
